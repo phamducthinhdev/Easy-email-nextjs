@@ -1,0 +1,52 @@
+{
+  "name": "web-easy-email",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@arco-design/web-react": "^2.55.2",
+    "@arco-themes/react-easy-email-theme": "^0.0.3",
+    "@arco-themes/react-easy-email-theme-purple": "^0.0.3",
+    "@types/final-form-set-field-touched": "^1.0.3",
+    "codemirror": "^6.0.1",
+    "easy-email-core": "^4.12.2",
+    "easy-email-extensions": "^4.14.2",
+    "final-form": "^4.20.10",
+    "final-form-arrays": "^3.1.0",
+    "final-form-set-field-touched": "^1.0.1",
+    "he": "^1.2.0",
+    "is-hotkey": "^0.2.0",
+    "js-beautify": "^1.14.11",
+    "lodash": "^4.17.21",
+    "mjml": "^4.14.1",
+    "mjml-browser": "^4.14.1",
+    "next": "^13.5.6",
+    "overlayscrollbars": "^2.4.4",
+    "overlayscrollbars-react": "^0.5.3",
+    "production": "^0.0.2",
+    "react": "^18",
+    "react-codemirror2": "^7.3.0",
+    "react-dom": "^18",
+    "react-final-form": "^6.5.9",
+    "react-final-form-arrays": "^3.1.4",
+    "react-use": "^17.4.0",
+    "sass": "^1.69.5",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/he": "^1.2.3",
+    "@types/js-beautify": "^1.14.3",
+    "@types/lodash": "^4.14.201",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.3",
+    "typescript": "^5"
+  }
+}
